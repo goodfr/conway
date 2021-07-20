@@ -1,0 +1,7 @@
+^LICENSE\.md$
+^dev\.R$
+^image$
+^.*\.Rproj$
+^\.Rproj\.user$
+^R/.draft$
+^Report$
